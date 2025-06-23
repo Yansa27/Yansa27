@@ -1,31 +1,86 @@
+# Hi there! 👋 I'm Juliansa
+
+<div align="center">
+  
 [![@yansa27's Holopin board](https://holopin.io/api/user/board?user=yansa27)](https://holopin.io/@yansa27)
 
-<h1 align="center">Hi 👋, I'm juliansa</h1>
-<h3 align="center">A passionate web developer from Indonesia</h3>
+**Passionate Junior Web Developer | Student | Freelancer**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yansa27&label=Profile%20views&color=0e75b6&style=flat" alt="yansa27" /> </p>
+📍 Palembang, South Sumatra, Indonesia
 
-- 🌱 I’m currently learning **full stack web developer**
+[![Profile views](https://komarev.com/ghpvc/?username=yansa27&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/yansa27)
 
-- 👯 I’m looking to collaborate on **web programing**
+</div>
 
-- 💬 Ask me about **webdev**
+## 🎓 About Me
 
-- 📫 How to reach me **juliansa837@gmail.com**
+- 🏫 **Computer Science Student** at **Universitas Bina Darma**
+- 💼 **Junior Web Developer** with **BNSP Certification**
+- 🚀 **Freelancer** & **Founder** of [jasacodingplg.tech](https://jasacodingplg.tech)
+- 🌱 Currently mastering **Full Stack Web Development**
+- 💡 Passionate about creating innovative web solutions
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/100011918086333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yansa(juliansa)" height="30" width="40" /></a>
-<a href="https://instagram.com/@yansa.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@yansa.code" height="30" width="40" /></a>
-</p>
+## 🔧 Tech Stack & Skills
 
+```javascript
+const juliansa = {
+    role: "Junior Web Developer",
+    location: "Palembang, Indonesia",
+    education: "Universitas Bina Darma",
+    certification: "BNSP Certified",
+    currently_learning: ["Full Stack Development", "Modern Web Technologies"],
+    business: "jasacodingplg.tech",
+    interests: ["Web Development", "UI/UX Design", "Problem Solving"]
+};
+```
 
+## 🤝 Let's Collaborate!
 
+- 👯 Looking to collaborate on **web development projects**
+- 💬 Ask me about **web development**, **freelancing**, or **student life**
+- 📧 Reach me at: **juliansa837@gmail.com**
+- 🌐 Business inquiries: **jasacodingplg.tech**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yansa27&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="yansa27" /></p>
+## 🌐 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yansa27&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="yansa27" /></p>
-<a href="https://discord.com/users/909294446330409011"><img src="https://lanyard.cnrad.dev/api/909294446330409011" /></a>
+<div align="left">
+  <a href="https://fb.com/100011918086333" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/@yansa.code" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yansa27&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yansa27&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="GitHub Stats" />
+</div>
+
+## 🎮 Discord Status
+
+<div align="center">
+  <a href="https://discord.com/users/909294446330409011">
+    <img src="https://lanyard.cnrad.dev/api/909294446330409011" alt="Discord Status" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+**"Code with passion, learn with purpose, build with impact"** 🚀
+
+*Always open to new opportunities and collaborations!*
+
+</div>
+
+---
 
 <!---
 Yansa27/Yansa27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
