@@ -30,7 +30,7 @@ const juliansa = {
     certification: "BNSP Certified",
     currently_learning: ["Full Stack Development", "Modern Web Technologies"],
     business: "jasacodingplg.tech",
-    interests: ["Web Development", "UI/UX Design", "Problem Solving"]
+    interests: ["Web Development", "Ai & Web 3", "Problem Solving"]
 };
 ```
 
