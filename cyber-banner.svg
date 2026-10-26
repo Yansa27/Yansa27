@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="JULIANSA — CYBER DEVELOPER // SYSTEM ONLINE">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03070c"/><stop offset=".52" stop-color="#08141b"/><stop offset="1" stop-color="#030708"/></linearGradient>
+ <linearGradient id="neon"><stop stop-color="#00ff9c"/><stop offset=".55" stop-color="#00e5ff"/><stop offset="1" stop-color="#bc47ff"/></linearGradient>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#19f7d0" stroke-opacity=".12" stroke-width="1"/></pattern>
+ <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 0H4" stroke="#fff" stroke-opacity=".045"/></pattern>
+ <filter id="glow" x="-40%" y="-100%" width="180%" height="300%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="frame"><rect width="1200" height="350" rx="18"/></clipPath>
+</defs>
+<style>
+ @keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+ @keyframes blink{0%,48%{opacity:1}49%,100%{opacity:0}}
+ @keyframes drift{0%{transform:translateY(-350px)}100%{transform:translateY(350px)}}
+ @keyframes dash{to{stroke-dashoffset:-80}}
+ @keyframes rise{0%,100%{opacity:.35}50%{opacity:.9}}
+ .pulse{animation:pulse 3s ease-in-out infinite}.blink{animation:blink 1s step-end infinite}
+ .scanner{animation:drift 9s linear infinite}.dash{stroke-dasharray:8 12;animation:dash 5s linear infinite}
+ .p2{animation:rise 2.5s ease-in-out infinite}
+ text{font-family:Consolas,Monaco,'Courier New',monospace}
+</style>
+<g clip-path="url(#frame)">
+ <rect width="1200" height="350" fill="url(#bg)"/><rect width="1200" height="350" fill="url(#grid)"/>
+ <rect x="15" y="15" width="1170" height="320" rx="10" fill="none" stroke="#1b6b70" stroke-width="1.5"/>
+ <path d="M15 65H1185M15 292H1185" stroke="#18a59c" stroke-opacity=".32"/>
+ <rect x="28" y="29" width="10" height="10" rx="5" fill="#ff5470"/><rect x="47" y="29" width="10" height="10" rx="5" fill="#f6ca56"/><rect x="66" y="29" width="10" height="10" rx="5" fill="#00ff9c"/>
+ <text x="94" y="39" fill="#78a3ac" font-size="13">root@yansa27: ~/profile</text>
+ <text x="1154" y="39" fill="#00ff9c" font-size="12" text-anchor="end" class="pulse">● SYSTEM ONLINE</text>
+ <g opacity=".6"><path d="M860 103h250v145H860z" fill="none" stroke="#00f5d4" stroke-opacity=".22"/><path d="M890 123v102m40-102v102m40-102v102m40-102v102m40-102v102m40-102v102M875 145h218m-218 35h218m-218 35h218" stroke="#00eaff" stroke-opacity=".09"/><circle cx="985" cy="175" r="77" fill="none" stroke="#00edcc" stroke-opacity=".4" class="dash"/><circle cx="985" cy="175" r="59" fill="none" stroke="#bb58ff" stroke-opacity=".32" stroke-dasharray="4 11"/><circle cx="985" cy="175" r="39" fill="none" stroke="#00ff9c" stroke-opacity=".6"/><path d="M985 115v120m-60-60h120" stroke="#04e6e2" stroke-opacity=".25"/><text x="985" y="185" fill="#00ff9c" font-size="30" font-weight="bold" text-anchor="middle" filter="url(#glow)">&lt;/&gt;</text></g>
+ <text x="60" y="106" fill="#00ff9c" font-size="15" letter-spacing="3">[ IDENTITY VERIFIED ]</text>
+ <text x="55" y="185" fill="url(#neon)" font-size="79" font-weight="bold" letter-spacing="7" filter="url(#glow)">JULIANSA</text>
+ <rect x="62" y="202" width="620" height="2" fill="url(#neon)"/>
+ <text x="60" y="242" fill="#e0f9f3" font-size="21" letter-spacing="2">FULL STACK DEVELOPER</text><text x="60" y="271" fill="#66adb1" font-size="16">BUILDING SYSTEMS // BREAKING LIMITS <tspan class="blink" fill="#00ff9c">█</tspan></text>
+ <text x="40" y="316" fill="#68888d" font-size="12">ACCESS_LEVEL: DEVELOPER</text><text x="1160" y="316" fill="#68888d" font-size="12" text-anchor="end">PALEMBANG, ID // 2026</text>
+ <rect class="scanner" x="15" y="0" width="1170" height="2" fill="#20ffe3" opacity=".3"/>
+ <rect width="1200" height="350" fill="url(#scan)" pointer-events="none"/>
+ <path d="M15 77v-50h50M1185 77v-50h-50M15 273v50h50M1185 273v50h-50" fill="none" stroke="#00ffb7" stroke-width="2"/>
+</g>
+</svg>
