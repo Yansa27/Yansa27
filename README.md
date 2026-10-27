@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://github.com/Yansa27">
-  <img width="100%" src="https://raw.githubusercontent.com/Yansa27/Yansa27/main/assets/cyber-banner.svg" alt="Juliansa | Cyberpunk Developer Banner" />
+  <img width="100%" src="cyber-banner.svg" alt="Juliansa | Cyberpunk Developer Banner" />
 </a>
 
 <br />
