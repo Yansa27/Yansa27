@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://github.com/Yansa27">
-  <img width="100%" src="https://github.com/Yansa27/Yansa27/blob/033b26a8fb13802ae3294702b9a346f68b2b5650/cyber-banner.svg" alt="Juliansa | Cyberpunk Developer Banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/Yansa27/Yansa27/main/assets/cyber-banner.svg" alt="Juliansa | Cyberpunk Developer Banner" />
 </a>
 
 <br />
@@ -38,7 +38,7 @@
   BASE       : Palembang, South Sumatra, Indonesia
   EDUCATION  : Computer Science @ Universitas Bina Darma
   CERTIFIED  : BNSP — Junior Web Developer
-  VENTURE    : jasacodingplg.tech
+  VENTURE    : JASVERO // jasverodigital.com
   MISSION    : Create useful, scalable and impactful web solutions
 
 └─$ echo "Code with passion. Build with impact."
@@ -48,7 +48,7 @@ I'm a **Junior Web Developer**, **Computer Science student**, and **freelancer**
 
 - `>_` Building and improving **full-stack web applications**.
 - `>_` Exploring **AI, modern web technologies, and Web3**.
-- `>_` Running **[jasacodingplg.tech](https://jasacodingplg.tech)**.
+- `>_` Building with **[JASVERO](https://jasverodigital.com)**.
 - `>_` Open to **freelance work, internships, and collaborations**.
 
 ### `02 // TECH_ARSENAL`
@@ -130,7 +130,7 @@ I'm a **Junior Web Developer**, **Computer Science student**, and **freelancer**
 <div align="center">
 
 <a href="mailto:juliansa837@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND_MESSAGE-00ff9c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=071015" alt="Email" /></a>
-<a href="https://jasacodingplg.tech"><img src="https://img.shields.io/badge/WEBSITE-VISIT_SITE-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=071015" alt="Website" /></a>
+<a href="https://jasverodigital.com"><img src="https://img.shields.io/badge/WEBSITE-VISIT_SITE-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=071015" alt="Website" /></a>
 <a href="https://instagram.com/yansa.code"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-b34cff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=071015" alt="Instagram" /></a>
 <a href="https://fb.com/100011918086333"><img src="https://img.shields.io/badge/FACEBOOK-CONNECT-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=071015" alt="Facebook" /></a>
 <a href="https://discord.com/users/909294446330409011"><img src="https://img.shields.io/badge/DISCORD-CONTACT-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=071015" alt="Discord" /></a>
